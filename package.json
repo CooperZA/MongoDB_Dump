@@ -1,0 +1,19 @@
+{
+  "name": "mongodb_dump",
+  "version": "1.0.0",
+  "description": "js class to bulk update/delete MongoDB collections",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CooperZA/MongoDB_Dump.git"
+  },
+  "author": "Zach Cooper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CooperZA/MongoDB_Dump/issues"
+  },
+  "homepage": "https://github.com/CooperZA/MongoDB_Dump#readme"
+}
